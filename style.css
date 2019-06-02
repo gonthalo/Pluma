@@ -1,0 +1,51 @@
+body {
+	font-family: Palatino Linotype;
+	font-size: 16px;
+	color: black;
+	background-color: white;
+}
+
+div.caja {
+	padding-top: 30px;
+	margin-right: 25%;
+	margin-left: 25%;
+}
+
+p {
+	text-align: justify;
+}
+
+p.dial {
+	margin-left: 10px;
+}
+
+img {
+	padding: 30px;
+}
+
+h1 {
+	padding-top: 30px;
+	padding-bottom: 0px;
+	margin: 30px;
+	text-align: center;
+	font-size: 30px;
+}
+a:link {
+	color: blue;
+    text-decoration: bold;
+}
+
+a:visited {
+	color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+	color: rgb(5, 250, 100);
+    text-decoration: underline;
+}
+
+a:active {
+	color: white;
+    text-decoration: underline;
+}
